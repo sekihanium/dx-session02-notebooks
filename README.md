@@ -31,4 +31,4 @@
 ## 成果物の持ち帰り
 
 - 保存した画像（`*.jpg`）やノートは、左の一覧で右クリック → **Download**。
-- まとめて取る場合は自分のPCから `scp "pi@dx-pi-XX.local:~/notebooks/*.jpg" .`
+- まとめて取る場合は自分のPCから `scp "pi@dx-pi-XX.local:~/dx-session02/notebooks/*.jpg" .`
